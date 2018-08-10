@@ -1,6 +1,6 @@
-# dgd-supervision
+# HR-system
 
-> 数字广东-督办
+> HR岗位推荐系统
 
 ## Build Setup
 
